@@ -1,0 +1,4 @@
+reflexion-semana1.txt
+
+El uso respondsable de la informacion en internet esta muy relacionado con la ciudadania digital, ya que implica actuar de manera etica y conciente al momento de compartir cualquier cosa en internet.
+por otro lado, la organizacion del trabajo como herramientas como GIT permmiten llevar un control adecuado a la informacion y facilita el trabajo colaborativo, esto  nos ayuda a mantener un orden  y a mejorar la calidad del contenido que se coparte.
