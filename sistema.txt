@@ -1,0 +1,3 @@
+El comando systeminfo muestra información detallada del sistema operativo, hardware, memoria, versión de Windows y configuraciones del equipo. Es útil para conocer el estado general del sistema.
+
+El comando whoami muestra el usuario actual que está conectado en el sistema. Es importante para verificar con qué permisos o identidad se están ejecutando los comandos en el servidor.
